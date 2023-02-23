@@ -3,9 +3,6 @@
 ## About me
 
 A self-taught QA engineer in pursuit of a job opportunity to further develop my skills and gain hands-on experience in software testing.
-Hoping to be able to utilize technical knowledge, attention to detail and excellent coordination & organizational skills to provide a valuable experience for users throughout my career path.
 
-
-
-
-
+### Portfolio
+[Sobasednik](https://github.com/Ksenia-G/Sobasednik)

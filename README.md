@@ -4,5 +4,5 @@
 
 A self-taught QA engineer in pursuit of a job opportunity to further develop my skills and gain hands-on experience in software testing.
 
-### Portfolio
-[Sobasednik](https://github.com/Ksenia-G/Sobasednik)
+## Portfolio
+- [Sobasednik](https://github.com/Ksenia-G/Sobasednik)

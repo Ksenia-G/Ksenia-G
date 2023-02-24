@@ -5,7 +5,10 @@
 A self-taught QA engineer in pursuit of a job opportunity to further develop my skills and gain hands-on experience in software testing.
 
 ## Portfolio
+### Test Docs
 - [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
+### SQL 
+- [SQL](https://github.com/Ksenia-G/SQL)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

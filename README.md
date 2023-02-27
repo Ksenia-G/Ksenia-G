@@ -6,6 +6,7 @@ A self-taught QA engineer in pursuit of a job opportunity to further develop my 
 
 ## Portfolio
 ### Test Docs
+- [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)
 - [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
 ### SQL 
 - [Northwind DB](https://github.com/Ksenia-G/SQL)

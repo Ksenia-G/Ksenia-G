@@ -10,6 +10,7 @@ A self-taught QA engineer in pursuit of a job opportunity to further develop my 
 - [Texas_Massacre_Shooter_Game](https://github.com/Ksenia-G/Texas_Massacre_Shooter_Game)
 - [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
 ### SQL 
+- [HackerRank Skills Certification Test](https://github.com/Ksenia-G/HackerRank)
 - [Northwind DB](https://github.com/Ksenia-G/SQL)
 
 ### Language and Tools

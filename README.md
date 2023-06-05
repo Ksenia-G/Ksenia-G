@@ -10,7 +10,7 @@ Highly skilled specialist with a strong technical background, fluent in English,
 
 ### SQL 
 - [Certification](https://github.com/Ksenia-G/HackerRank)
-- [Cases]()
+- [Cases](https://github.com/Ksenia-G/SQL_Cases)
 
 ### QA experience
 - [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)

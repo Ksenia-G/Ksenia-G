@@ -8,13 +8,13 @@ Highly skilled specialist with a strong technical background, fluent in English,
 - [Link](https://drive.google.com/file/d/1cmAFoLvB8L5HoGcXQmyt_QgdoguHegf4/view?usp=sharing)
 
 
-### Test Docs
-- [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)
-- [Texas_Massacre_Shooter_Game](https://github.com/Ksenia-G/Texas_Massacre_Shooter_Game)
-- [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
 ### SQL 
 - [HackerRank Skills Certification Test](https://github.com/Ksenia-G/HackerRank)
 - [Northwind DB](https://github.com/Ksenia-G/SQL)
+### QA experience
+- [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)
+- [Texas_Massacre_Shooter_Game](https://github.com/Ksenia-G/Texas_Massacre_Shooter_Game)
+- [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

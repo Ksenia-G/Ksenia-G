@@ -9,8 +9,8 @@ Highly skilled specialist with a strong technical background, fluent in English,
 
 
 ### SQL 
-- [HackerRank Skills Certification Test](https://github.com/Ksenia-G/HackerRank)
-- [Northwind DB](https://github.com/Ksenia-G/SQL)
+- [Certification](https://github.com/Ksenia-G/HackerRank)
+- [Cases](https://github.com/Ksenia-G/SQL)
 ### QA experience
 - [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)
 - [Texas_Massacre_Shooter_Game](https://github.com/Ksenia-G/Texas_Massacre_Shooter_Game)

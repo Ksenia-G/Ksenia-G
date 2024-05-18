@@ -1,4 +1,4 @@
-![Header](https://github.com/Ksenia-G/Ksenia-G/assets/125516998/ec9fced4-8a6f-4ce3-99af-f10376330b40)
+![Header](https://github.com/Ksenia-G/Ksenia-G/assets/125516998/de2a72df-729e-4586-bfbc-561364471386)
 
 ## INTRO
 

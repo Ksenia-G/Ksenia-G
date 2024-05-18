@@ -2,7 +2,7 @@
 
 ## INTRO
 
-Highly skilled specialist with a strong technical background, fluent in English, and equipped with a remarkable set of soft and hard skills. I continuously enhance my abilities, driven by a deep enthusiasm for embracing new challenges and seizing opportunities to learn and grow. From mastering cutting-edge software solutions to fostering effective collaboration with both team members and clients, I thrive in environments that demand innovation and deliver exceptional results. With my expertise and dedication, I can contribute significantly to your organization's succes
+Started my path in IT from learning QA then fiddled with a coupele of programming languages, now highly into DS and ML.
 
 ## My CV
 - [Link](https://drive.google.com/file/d/1cmAFoLvB8L5HoGcXQmyt_QgdoguHegf4/view?usp=sharing)

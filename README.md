@@ -4,10 +4,6 @@
 
 Started my path in IT from learning QA, then fiddled with a couple of programming languages, now highly into DS and ML
 
-## My CV
-- [Link](https://drive.google.com/file/d/1cmAFoLvB8L5HoGcXQmyt_QgdoguHegf4/view?usp=sharing)
-
-
 ### SQL 
 - [Certification](https://github.com/Ksenia-G/HackerRank)
 - [Cases](https://github.com/Ksenia-G/SQL_Cases)

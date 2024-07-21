@@ -4,9 +4,8 @@
 
 Started my path in IT from learning QA, then fiddled with a couple of programming languages, now highly into DS and ML
 
-### SQL 
-- [Certification](https://github.com/Ksenia-G/HackerRank)
-- [Cases](https://github.com/Ksenia-G/SQL_Cases)
+### Course Projects
+- HR_Analytics
 
 ### QA experience
 - [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)

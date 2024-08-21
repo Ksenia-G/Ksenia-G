@@ -4,6 +4,9 @@
 
 Started my path in IT from learning QA, then fiddled with a couple of programming languages, now highly into DS and ML
 
+### Pet Projects
+- [Kinipoisk Analisys](https://github.com/Ksenia-G/Kinopoisk_Analisys)
+
 ### ML Course Projects
 - [HR_Analytics](https://github.com/Ksenia-G/HR_Analytics_Course_Project)
 

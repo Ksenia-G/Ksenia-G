@@ -10,11 +10,6 @@ Started my path in IT from learning QA, then fiddled with a couple of programmin
 ### ML Course Projects
 - [HR_Analytics](https://github.com/Ksenia-G/HR_Analytics_Course_Project)
 
-### QA experience
-- [Banking Web App](https://github.com/Ksenia-G/Guru99_Banking_Web_App)
-- [Texas_Massacre_Shooter_Game](https://github.com/Ksenia-G/Texas_Massacre_Shooter_Game)
-- [Sobasednik](https://github.com/Ksenia-G/Sobasednik)
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)

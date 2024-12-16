@@ -1,18 +1,7 @@
 ![Header](https://github.com/Ksenia-G/Ksenia-G/assets/125516998/de2a72df-729e-4586-bfbc-561364471386)
 
-## INTRO
-
-Started my path in IT from learning QA, then fiddled with a couple of programming languages, now highly into DS and ML
-
 ### Pet Projects
 - [Kinipoisk Analysis](https://github.com/Ksenia-G/Kinopoisk_Analisys)
 
 ### ML Course Projects
 - [HR_Analytics](https://github.com/Ksenia-G/HR_Analytics_Course_Project)
-
-### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)

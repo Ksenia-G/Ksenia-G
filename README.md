@@ -7,6 +7,10 @@
 
   Exploratory data analysis of Kinopoisk movie data to uncover trends in viewer ratings and film attributes.
 
+### 🔹 The Workshop
+- [Workshop.Projects](https://github.com/Ksenia-G/Workshop)
+  The Workshop is a division of Yandex with with real-world data cases.
+
 ### 🔹 ML Course Projects
 - [Yandex.Praktikum](https://github.com/Ksenia-G/Yandex.Praktikum_Course_Projects)
 

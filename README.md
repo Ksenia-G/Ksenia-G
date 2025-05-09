@@ -1,9 +1,5 @@
 ![Header](https://github.com/Ksenia-G/Ksenia-G/assets/125516998/de2a72df-729e-4586-bfbc-561364471386)
 
-# 👋 Hi, I'm Ksenia
-Welcome to my GitHub portfolio! Here are some of the machine learning and data analytics projects I've worked on.
----
-
 ## 📂 Projects
 
 ### 🔹 Pet Projects

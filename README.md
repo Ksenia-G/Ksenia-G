@@ -3,12 +3,14 @@
 ## 📂 Projects
 
 ### 🔹 Pet Projects
-- **[Kinipoisk Analysis](https://github.com/Ksenia-G/Kinopoisk_Analisys)**
-    Analyzing movie data from Kinopoisk to explore trends and viewer preferences.
+- [Kinipoisk Analysis](https://github.com/Ksenia-G/Kinopoisk_Analisys)
+
+  Exploratory data analysis of Kinopoisk movie data to uncover trends in viewer ratings and film attributes.
 
 ### 🔹 ML Course Projects
 - [Yandex.Praktikum](https://github.com/Ksenia-G/Yandex.Praktikum_Course_Projects)
-  A number of course projects aimed at various ML tasks such as regression, classification, time series forecasting, bootstrapping, etc.
+
+  A collection of course projects covering a broad range of machine learning tasks, including regression, classification, time series forecasting, and statistical resampling methods such as bootstrapping.
 
 ---
 
